@@ -202,8 +202,46 @@ const LIVROS = [
     cupom: "",
     editora: "Principis",
     linkCompra: "https://link.amazon/B0frEKiaQ"
-  }
+  },
 
+    {
+    categoria: "espiritualidade",
+    titulo: "Breviário da Confiança",
+    autor: "Ascânio Brandão",
+    capa: "https://static.cedet.com.br/produtos_imagem_principal_large/35743-525x791.jpg?v=1756746370",
+    estrelas: 5,
+    resumo: "Meditações diárias para rezar",
+    minhaExperiencia: "Eu ganhei esse livro de presente de uma amiga e não demorou muito pra ele se tornar um dos meus livros preferidos. as meditações diárias escritas por Ascânio Brandão, são um grande suporte pra oração.",
+    cupom: "NADIA5",
+    editora: "Ecclasiae",
+    linkCompra: "https://ecclesiae.com.br/breviario-da-confianca?search=santa%20teresinha"
+  },
+
+   {
+    categoria: "espiritualidade",
+    titulo: "Obras Completas de Santa Teresinha do Menino Jesus",
+    autor: "Teresa de Lisieux",
+    capa: "https://m.media-amazon.com/images/I/81LiTY08OPL._SY466_.jpg",
+    estrelas: 5,
+    resumo: "Necessário",
+    minhaExperiencia: "Indico logo de cara as obras completas de Teresinha porque tenho um apreço enorme pelas cartas dela. Por meio delas conhecemos uma Teresinha tão próxima, tão humana, brincalhona, gentil e santa. Além das cartas, nas obras completas temos: História de uma alma, poesias, recreações, orações e últimos colóquios.",
+    cupom: "",
+    editora: "Paulus",
+    linkCompra: "https://link.amazon/B091EQLZ7"
+  },
+
+    {
+    categoria: "espiritualidade",
+    titulo: "Uma noviça de Santa Teresinha",
+    autor: "Irmã Maria da Trindade",
+    capa: "https://m.media-amazon.com/images/I/61xcm32-YUL._SY466_.jpg",
+    estrelas: 5,
+    resumo: "Escrito por uma irmã que foi formanda de Teresinha",
+    minhaExperiencia: "Lembro até hoje de quando estava lendo esse livro e li o relato dessa querida irmã que foi uma noviça de Teresinha. Ela contando a sua experiência diante da morte de nossa santinha despedaçou meu coração, chorei como uma criança. Eu amei esse livro porque é a visão de uma outra pessoa diante da vida de Teresinha, ela conta os conselhos que recebeu, as exortações, os mimos porque Teresinha era muito querida e caridosa.",
+    cupom: "",
+    editora: "Cultor de Livros",
+    linkCompra: "https://link.amazon/B0gkyVEcc"
+  },
   // ── PARA ADICIONAR UM NOVO LIVRO, COLA AQUI ──
   // Exemplo:
   //
