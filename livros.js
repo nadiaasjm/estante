@@ -258,7 +258,7 @@ const LIVROS = [
   
 
     {
-    categoria: "Literatura Clássica",
+    categoria: "literatura",
     titulo: "Anna Kariênina",
     autor: "LEv Tolstói",
     capa: "https://m.media-amazon.com/images/I/814HV7EG0OS._SY425_.jpg",
