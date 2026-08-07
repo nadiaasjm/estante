@@ -242,7 +242,34 @@ const LIVROS = [
     editora: "Cultor de Livros",
     linkCompra: "https://link.amazon/B0gkyVEcc"
   },
-  // ── PARA ADICIONAR UM NOVO LIVRO, COLA AQUI ──
+  //
+    {
+    categoria: "espiritualidade",
+    titulo: "O diálogo das Carmelitas",
+    autor: "George Bernanos",
+    capa: "https://static.cedet.com.br/produtos_imagem_principal_large/33964-525x791.jpg?v=1750276182",
+    estrelas: 5,
+    resumo: "Baseado no martírio das Carmelitas durante a revolução Francesa",
+    minhaExperiencia: "O livro é escrito em formato de teatro, e isso deixa a leitura mais fácil, mais tranquila de ser lida, e também nos coloca dentro da história. Eu me surpreendi com a história, gostei muito sobretudo dos ensinamentos tão preciosos sobre a vida conventual",
+    cupom: "NADIA5",
+    editora: "Sétimo Selo",
+    linkCompra: "https://editorasetimoselo.com.br/dialogo-das-carmelitas"
+  },
+  
+
+    {
+    categoria: "Literatura",
+    titulo: "Anna Kariênina",
+    autor: "LEv Tolstói",
+    capa: "https://m.media-amazon.com/images/I/814HV7EG0OS._SY425_.jpg",
+    estrelas: 5,
+    resumo: "Maravilhoso, gostei muitoooo",
+    minhaExperiencia: "Um misto de sentimentos e experiências com a leitura desse livro. Um livro que fala de sentido da vida, de escolhas e consequências dela. Confesso que Anna mexeu muito comigo, teve horas que sentia pena dela, outras sentia uma raiva imensa, por fim, anna me fez compreender muito sobre o que acontece com uma alma que constrói a sua casa sobre a areia.",
+    cupom: "",
+    editora: "Editora 34",
+    linkCompra: "https://link.amazon/B0cL0ysve"
+  },
+
   // Exemplo:
 
   //   titulo: "Nome do Livro",
